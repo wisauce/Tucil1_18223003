@@ -13,8 +13,6 @@ Setiap konfigurasi yang dihasilkan akan divalidasi berdasarkan aturan permainan:
 
 Program dilengkapi dengan Graphical User Interface (GUI) untuk memuat papan, menampilkan proses pencarian solusi, serta menyimpan hasil dalam bentuk file teks atau gambar.
 
----
-
 ## Requirement Program
 
 Program dibuat menggunakan Python.
@@ -37,13 +35,10 @@ atau jika menggunakan UV
 uv add pillow
 ```
 
----
 
 ## Cara Kompilasi
 
 Program tidak memerlukan proses kompilasi karena menggunakan Python.
-
----
 
 ## Cara Menjalankan Program
 
@@ -79,8 +74,6 @@ AABB
 CCDD
 CCDD
 ```
-
----
 
 ## Author
 
