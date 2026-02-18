@@ -59,7 +59,7 @@ Langkah penggunaan:
 1. Klik tombol **Load File** untuk memilih file papan `.txt`.
 2. Klik **Solve** untuk menjalankan algoritma brute force.
 3. Gunakan **Save as Text** untuk menyimpan solusi dalam file `.txt`.
-4. Gunakan **Save as Image** untuk menyimpan solusi dalam bentuk gambar (memerlukan Pillow).
+4. Gunakan **Save as Image** untuk menyimpan solusi dalam bentuk gambar.
 
 Format input papan:
 
