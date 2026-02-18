@@ -1,4 +1,4 @@
-# Queens Solver — Brute Force
+# LinkedIn Queens Solver
 
 ## Deskripsi Program
 
