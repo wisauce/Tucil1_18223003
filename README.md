@@ -31,6 +31,12 @@ Instalasi Library Pillow:
 pip install pillow
 ```
 
+atau jika menggunakan UV
+
+```
+uv add pillow
+```
+
 ---
 
 ## Cara Kompilasi
@@ -45,6 +51,12 @@ Jalankan file utama dengan perintah berikut:
 
 ```
 python main.py
+```
+
+atau jika menggunakan uv
+
+```
+uv run main.py
 ```
 
 Langkah penggunaan:
