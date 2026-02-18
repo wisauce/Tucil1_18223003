@@ -42,7 +42,7 @@ Program tidak memerlukan proses kompilasi karena menggunakan Python.
 
 ## Cara Menjalankan Program
 
-Jalankan file utama dengan perintah berikut:
+Jalankan file utama pada direktori src dengan perintah berikut:
 
 ```
 python main.py
